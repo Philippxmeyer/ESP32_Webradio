@@ -1,0 +1,64 @@
+{
+  "display_pixels": [
+    128,
+    64
+  ],
+  "enlarged_pixels": [
+    512,
+    256
+  ],
+  "method": "Actual RadioDisplay.cpp, StationMenu.h, StreamMetadata.cpp and Adafruit GFX / GFXcanvas1",
+  "data": "Default station list; simulated time; demonstration SWR3 song/stream metadata; no hardware or live stream capture",
+  "source_sha256": {
+    "RadioDisplay.cpp": "745d7e84b6f4a976c1ec5038d537e11cec7f4d8deae88f0dc0be2cb36c02d55f",
+    "RadioDisplay.h": "d47f1f97ff95dcc774535006c2c3eabcdedb20ead1475cc420c7d7932af6d8d0",
+    "StreamMetadata.cpp": "88139248d1e84f6c01325c769482fe268918579468391f0a34f497c1a8795763",
+    "StreamMetadata.h": "c53783280bbbff73e630fc9ecbfb0c613fa29e0a90b44948141f1059e6c34730",
+    "StationMenu.h": "533421230e1cf02cb97ba663d3982bd58640a8bc8085a6951bf6d9fd2587e015",
+    "Stations.h": "9f3ab6025d631eaf0cc989ea6b02ada1485ced8251aa262db371074292e1ef56",
+    "Config.h": "b13643f3534701eafeb174783a9d68a515b15494f1619b9c455bcf42eab984a2",
+    "OledText.h": "c0431472dd80432ae87a5efbf8a549d177c58d854d05e2b2e545ec81c9f79356",
+    "Adafruit_GFX/Adafruit_GFX.cpp": "5afa8ca16241a9a0cb354012dd00780c6c00620c345b810a9504cb77bfc698d5",
+    "Adafruit_GFX/Adafruit_GFX.h": "e4ace04cbed4499c0e2a80df33b381c87ce98689d98da82712f0748bf7359171",
+    "Adafruit_GFX/glcdfont.c": "bd6d60ecb9cc350a83f209d7c62de2fe5f6ce3402d5598cde2988b5b44e83e02",
+    "Adafruit_GFX/gfxfont.h": "4e1b06371217d63102bac242d4a3ec8dcaff93cd34b4241bbc39eda521a1be11"
+  },
+  "frames": [
+    {
+      "file": "01-swr3-wiedergabe.png",
+      "caption": "SWR3: Wiedergabe"
+    },
+    {
+      "file": "02-swr3-laufschrift.png",
+      "caption": "SWR3: Laufschrift"
+    },
+    {
+      "file": "03-gruppen-pop.png",
+      "caption": "Gruppen: Pop & Hits"
+    },
+    {
+      "file": "04-pop-swr3.png",
+      "caption": "Pop: SWR3"
+    },
+    {
+      "file": "05-pop-wdr2.png",
+      "caption": "Pop: WDR2 markieren"
+    },
+    {
+      "file": "06-gruppen-elektro.png",
+      "caption": "Gruppen: Elektro"
+    },
+    {
+      "file": "07-elektro-untergruppen.png",
+      "caption": "Elektro: Untergruppen"
+    },
+    {
+      "file": "08-sunshine-techno.png",
+      "caption": "sunshine: Techno"
+    },
+    {
+      "file": "09-sunshine-zurueck.png",
+      "caption": "sunshine: zurueck"
+    }
+  ]
+}
